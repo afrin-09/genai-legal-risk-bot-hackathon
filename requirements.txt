@@ -1,0 +1,7 @@
+streamlit
+pdfplumber
+python-docx
+nltk
+openai==0.28
+python-dotenv
+reportlab
