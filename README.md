@@ -103,4 +103,4 @@ streamlit run app.py
 =======
 # genai-contract-risk-assistant
 >>>>>>> 8e31cc11bf1550296894196484734280f8aa80d4
-Hackathon submission – final version.
+
