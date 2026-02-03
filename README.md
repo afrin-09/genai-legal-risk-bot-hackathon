@@ -98,4 +98,5 @@ The goal is **clarity, not legal advice**, enabling SMEs to make informed decisi
 
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
+
